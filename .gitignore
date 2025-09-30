@@ -1,0 +1,23 @@
+# Build results
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+
+# User-specific files
+*.user
+*.vspscc
+*.vssscc
+
+# IDE stuff
+.vs/
+*.swp
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
