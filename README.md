@@ -16,7 +16,7 @@ You place towers, defend your base, and survive against endless waves of enemies
 
 👉 Example screenshot of the game:  
 
-![Game Screenshot](./screenshot.png)
+![Game Screenshot](./Screenshot.png)
 
 ---
 
